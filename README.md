@@ -7,11 +7,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=DD73F7&center=true&width=435&lines=Always+learning;Machine+learning+%2F+Blockchain+%2F+Web3" alt="Typing SVG" /></a>
 <!--Social media -->
 <p align="center">
-  <a href="https://twitter.com/saike148"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/saike148"><img width="32px" alt="Twitter" title="Twitter" src="https://github.com/saike148/saike148/assets/92584258/a2de49e0-8ba2-47f2-8cd2-ace56898de0d"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/sai-krishna-devendiran-a78715251"><img width="32px" alt="Linkedin" title="Linkedin" src=""/></a>
+  <a href="https://www.linkedin.com/in/sai-krishna-devendiran-a78715251"><img width="32px" alt="Linkedin" title="Linkedin" src="https://github.com/saike148/saike148/assets/92584258/b9eac88f-8397-4f57-a7ae-5e4f98c7a259"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/saike148" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discordapp.com/users/saike148" alt="Discord" title="Discord"><img width="32px" src="https://github.com/saike148/saike148/assets/92584258/fc0ab925-4fba-4d08-b77b-28f02edd531b"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
