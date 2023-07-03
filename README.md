@@ -13,11 +13,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/saike148" alt="Discord" title="Discord"><img width="32px" src="https://github.com/saike148/saike148/assets/92584258/fc0ab925-4fba-4d08-b77b-28f02edd531b"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 <!-- follow and star -->
 </p>
@@ -27,7 +22,25 @@
     <a href="https://github.com/saike148?tab-repositories&sort=stargazers">
       <img alt= "total stars" title="Total stars on GitHub" src= "https://custom-icon-badges.demolab.com/github/stars/saike148?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/›</a>
   </p>
+<!-- best repositories -->
+<details open> 
+  <summary><h2>📘 Top repositories</h2></summary>
 
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/saike148/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/saike148/BlockcampFrontend"><img width="278" src="https://github-readme-stats-saike148.vercel.app/api/pin/?username=saike148&repo=BlockcampFrontend&theme=react&bg_color=1F222E&title_color=DD73F7&hide_border=true&icon_color=DD73F7&show_icons=false" alt="BlockcampFrontend"></a>
+      <a href="https://github.com/saike148/saike148"><img width="278" src="https://github-readme-stats-saike148.vercel.app/api/pin/?username=saike148&repo=saike148&theme=react&bg_color=1F222E&title_color=DD73F7&hide_border=true&icon_color=DD73F7&show_icons=false" alt="saike148"></a>
+      <a href="https://github.com/saike148/amfoss-tasks"><img width="278" src="https://github-readme-stats-saike148.vercel.app/api/pin/?username=saike148&repo=amfoss-tasks&theme=react&bg_color=1F222E&title_color=DD73F7&hide_border=true&icon_color=DD73F7&show_icons=false" alt="amfoss-tasks"></a>
+      <a href="https://github.com/saike148/saike148.github.io"><img width="278" src="https://github-readme-stats-saike148.vercel.app/api/pin/?username=saike148&repo=saike148.github.io&theme=react&bg_color=1F222E&title_color=DD73F7&hide_border=true&icon_color=DD73F7&show_icons=false" alt="saike148.github.io"></a>
+  </p>
+
+  <a href="https://github.com/saike148?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</details>
+<details open>
+  <summary>Github status</summary>
+  <img align="left" alt="saike's github stats"  src="https://github-readme-stats-saike148.vercel.app/api?username=saike148&showi_icons=true&theme=react&bg_color=1F222E&title_color=DD73F7&hide_border=true&icon_color=DD73F7&show_icons=false" />
+</details>
 <!--
 **saike148/saike148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
