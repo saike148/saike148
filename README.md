@@ -11,8 +11,6 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/sai-krishna-devendiran-a78715251"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/bdZIuia.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/saike148" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/Ch1VufU.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <!-- follow and star -->
 </p>
