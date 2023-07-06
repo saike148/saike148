@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://twitter.com/saike148"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/D7FzVsp.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="www.linkedin.com/in/saikrishna-devendiran-a78715251"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/bdZIuia.png"/></a>
+  <a href="https://www.linkedin.com/in/saikrishna-devendiran-a78715251"><img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/bdZIuia.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <!-- follow and star -->
